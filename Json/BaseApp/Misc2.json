@@ -1,0 +1,25 @@
+[
+    {
+        "ButtonLabel": "Discord",
+        "ButtonId": "discordmenu",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Dc",
+        "Entry": "ShowDiscordMenu",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "Set Token",
+        "ButtonId": "settoken",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Dc",
+        "Entry": "SetToken",
+        "IsMainButton": false
+    },
+    {
+        "ModalId": "discordmodalsettoken",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Dc",
+        "Entry": "SetTokenModalSubmit",
+        "IsModal": true
+    }
+]

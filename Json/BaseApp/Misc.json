@@ -1,0 +1,26 @@
+[
+    {
+        "ButtonLabel": "Misc",
+        "ButtonId": "miscmenu",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Misc",
+        "Entry": "ShowMiscMenu",
+        "IsMainButton": true
+    },
+    {
+        "ButtonLabel": "Screenshot",
+        "ButtonId": "screenshot",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Misc",
+        "Entry": "Screenshot",
+        "IsMainButton": false
+    },
+    {
+        "ButtonLabel": "CMD",
+        "ButtonId": "cmdinfo",
+        "DllFileName": "BaseApp2.dll",
+        "TypeName": "Misc",
+        "Entry": "CmdInfo",
+        "IsMainButton": false
+    }
+]
